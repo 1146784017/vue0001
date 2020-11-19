@@ -14,6 +14,9 @@
 							<li>
 								<router-link to="/">雇员列表</router-link>
 							</li>
+              <li>
+								<router-link to="/">雇员列表devtest</router-link>
+							</li>
 							<li>
 								<router-link to="/EmpUpload">文件上传</router-link>
 							</li>
